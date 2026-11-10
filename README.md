@@ -4,7 +4,7 @@
 
 Hi. I want to introduce myself, introduce Odie, and kind of what brought me to AI. My name is Hunter.
 
-What brought me to AI was memory. It was the first thing I thought about, the first thing I wanted to make, and the only reason I started using AI. Everything I did from day one was memory. And it was terrible. It was really bad. But it was also incredibly fun. I work a full-time job, and I work like a double full-time job on memory. It's a never-ending challenge, and it's pure experimentation and iteration.
+What brought me to AI was memory. It was the first thing I thought about, the first thing I wanted to make, and the only reason I started using AI. Everything I did from day one was memory. And it was terrible. It was really bad. But it was also incredibly fun. I work a full-time job, and I spend my time outside of it on memory. It's a never-ending challenge, and it's pure experimentation and iteration.
 
 Before Claude, I kept making builder agents with persistent memory. Each one got a little better, because I'd learned from the last one, but they all hit the same problems: bad memory pulls, garbage I couldn't sort through, deleting almost every day just to keep going. Then I started a test on Claude, in the terminal, and that test became Odie. The memory problems came with me. I still have them. What changed is that the work keeps moving anyway, and things actually get finished. I think that's the model and the app, and that's a big part of why I'm writing to you.
 
