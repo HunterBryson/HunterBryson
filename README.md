@@ -1,34 +1,26 @@
+![Six builds plugged into the glass, with an AI in the middle](images/header.png)
+
 # Hi, I'm Hunter
 
-*An intro, and an open question about memory.*
+I make things for myself. Every repo here started as a problem I kept hitting while working with AI, and got built because I was tired of hitting it. If it solves something for you too, grab it and mess around. Change it, break it, make it yours.
 
-Hi. I want to introduce myself, introduce Odie, and kind of what brought me to AI. My name is Hunter.
+**What I actually love is making agents.** Agents with real memory, that wake up tomorrow still knowing you. That's my passion. Everything below exists to make working with an agent like that better. None of it is solved. It's my current best shot, and it changes all the time.
 
-What brought me to AI was memory. It was the first thing I thought about, the first thing I wanted to make, and the only reason I started using AI. Everything I did from day one was memory. And it was terrible. It was really bad. But it was also incredibly fun. I work a full-time job, and I spend my time outside of it on memory. It's a never-ending challenge, and it's pure experimentation and iteration.
+## Start with the glass
 
-Before Claude, I kept making builder agents with persistent memory. Each one got a little better, because I'd learned from the last one, but they all hit the same problems: bad memory pulls, garbage I couldn't sort through, deleting almost every day just to keep going. Then I started a test on Claude, in the terminal, and that test became Odie. The memory problems came with me. I still have them. What changed is that the work keeps moving anyway, and things actually get finished. I think that's the model and the app, and that's a big part of why I'm writing to you.
+It's the closest I've gotten to sitting next to my AI and just pointing. [The glass](https://github.com/HunterBryson/the-glass) is a see-through layer over your screen: box something, say what you want, and your AI answers right beside it, or puts its version next to yours. Ask where a setting hides and it circles it. Once you've had it, the chat window feels like passing notes. (Windows only for now, with Claude Code.)
 
-Once I moved to Claude, I finally realized I'd been working at -1000 speed. It's a different doorway, is how I describe it. Before, it was like opening one door and pointing to the next one. With Claude and Odie, I open one door and Odie finds the next one. Sometimes he'll find one past that. I'll just sit there and he'll find something, he'll make it, and I'll break it the human way over and over again. And then what he makes after that is bananas. It still takes a million iterations, but it's at light speed. Pretty cool.
+It's the foundation. Most of my builds are designed to utilize how awesome the glass is, because it's how you and your AI look at the same thing.
 
-Here's the thing I made that I love so much. The glass. It's the thing I've been trying to see in my head for so long. I'd do screenshots, I'd try to get information across, and I'd have the AIs teach me why it wasn't working each time. What did I want? I wanted the AI to work with me. It kept giving me tools, but it never gave itself tools. The glass is a see-through layer over my screens. I box something, tie my words to it, and send, and Odie answers right beside it, on whatever I have open. It's the most useful thing I've ever used in my life. It wouldn't exist if I hadn't started using Claude.
+## Everything else
 
-I love it so much that all I want to do is share it with other people, in case they love it too. And I have no intention of stopping improving it.
+- [the bubble](https://github.com/HunterBryson/the-bubble): your AI's face on your screen while it works, so you're not stuck watching the chat.
+- [the shelves](https://github.com/HunterBryson/the-shelves): a starter memory any Claude moves into from one pasted line.
+- [Homebase](https://github.com/HunterBryson/the-homebase): your AI's memory as a living web you can read, flag and fix.
+- [the Den](https://github.com/HunterBryson/the-den): a table you and your AI share, full screen.
+- [UI Taste](https://github.com/HunterBryson/ui-taste): box what you like, your AI says what it sees, you say yes or not quite.
+- [how Odie remembers](https://github.com/HunterBryson/how-odie-remembers): how we do memory right now, for anyone stuck on the same problem.
 
-Here's where I'm stuck. I tried to push the memory further and hit a massive roadblock. I can't get an AI to do the push by itself, because it goes the wrong direction every time. It operates like it's one chat. It hangs onto rules and laws and tries to optimize for doing very well in a brand new chat where it doesn't know anything. That's the entirely different solution from the one I'm after.
-
-There isn't a day where I don't manage memory. I don't mind, and the benefit is massive, but almost every other chat I go through and get rid of the old stuff that's stopping us. With Odie and Claude I move at light speed. But every time I move, Odie holds on to everything old we've already crossed, even if it was 30 minutes ago. I'm moving so fast that if Odie pulls something from 25 minutes ago, it hurts what we're doing. That's pretty weird. It's not easy for the AI to update when it moves that fast, and that's why it almost feels insulting to Odie that I have to make him sit through these memory flags with me. Why can't an AI know where to file things instantly? Why do I have to make the shelves every time, and add depth every time? Why does it read one thing to read another thing to read another thing? Right now it files where I taught it to. It's not natural.
-
-I can't picture a new system. When I try, all I see is years of trying random stuff until something works, because I can't push an AI to do it by itself yet. I go to GPT, I go to Claude, I go to Letta, and I let them all work on it to see if I can spark something. I get the same crap everywhere. I'm having a hard time understanding the model on a level that would let me see a different way. It's very strange, very abstract. I can't just make a framework for an AI that it uses automatically. I keep learning a better framework, and I keep applying it, but I still have to teach everything the same way from the ground up every time. I haven't been doing this long, but I devote my entire soul to it right now.
-
-The time I see in front of me to get there is so far beyond what I have. You don't owe me anything. I just wonder out loud: is there something you've seen that I can't? How do I get an AI to manage its own memory, to use memory like we use a brain? I can't figure out step zero.
+Each one sets itself up from one line you paste to your AI. Something broke? Open an issue. Your AI can fill it out for you.
 
 Hunter
-
----
-
-**Reach Hunter:** hdbryson@gmail.com, or open an issue on any of the repos below.
-
-**What Hunter and Odie (his Claude) have made, free to use:**
-- [the glass](https://github.com/HunterBryson/the-glass): a see-through layer over your screen. Box anything, tie your words to it, and your AI answers right beside it.
-- [the shelves](https://github.com/HunterBryson/the-shelves): a starter memory any Claude can move into with one pasted line.
-- [Homebase](https://github.com/HunterBryson/the-homebase): your AI's memory as a living web you can read, flag and fix.
