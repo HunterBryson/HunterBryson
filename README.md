@@ -14,7 +14,6 @@ It's the foundation. Most of my builds are designed to utilize how awesome the g
 
 ## Everything else
 
-- [the bubble](https://github.com/HunterBryson/the-bubble): your AI's face on your screen while it works, so you're not stuck watching the chat.
 - [the shelves](https://github.com/HunterBryson/the-shelves): a starter memory any Claude moves into from one pasted line.
 - [Homebase](https://github.com/HunterBryson/the-homebase): your AI's memory as a living web you can read, flag and fix.
 - [the Den](https://github.com/HunterBryson/the-den): a table you and your AI share, full screen.
